@@ -11,3 +11,8 @@ body{
 h1{
     text-align: center;
 }
+
+.bulb{
+    padding-top: 1%;
+    text-align: center;
+}
