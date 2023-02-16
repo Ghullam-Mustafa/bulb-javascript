@@ -10,9 +10,11 @@
 <body>
     <h1>Bulb</h1>
     <div class="bulb">
-        <button>turn on bulb</button>
-        <img src="/imeges/off.gif" alt="bulb off">
-        <button>turn off bulb</button>
+        <button onclick="document.getElementById('bulb').src='/imeges/on.gif'" >turn on bulb</button>
+
+        <img id="bulb" src="/imeges/off.gif" alt="bulb off">
+
+        <button onclick="document.getElementById('bulb').src='/imeges/off.gif'" >turn off bulb</button>
     </div>
 </body>
 </html>
