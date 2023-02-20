@@ -11,3 +11,5 @@ function second() {
 }
 
 second();
+
+document.write("hellow keep it up")
