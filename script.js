@@ -1,1 +1,0 @@
-onclick="document.getElementById('bulb').src='/imeges/on.gif'"
