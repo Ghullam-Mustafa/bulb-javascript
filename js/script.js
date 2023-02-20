@@ -1,2 +1,6 @@
-document.getElementById("first-paragraph").style.fontSize = "10px";
-        document.getElementById("first-paragraph").style.color = "red";
+function changestyle() {
+    document.getElementById("first-paragraph").style.fontSize = "20px";
+        document.getElementById("first-paragraph").style.color = "green";
+}
+
+changestyle();
