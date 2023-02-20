@@ -5,3 +5,9 @@ function changestyle() {
 }
 
 changestyle();
+
+function second() {
+    document.getElementById("second").innerHTML= " <b>i am bulb </b>"
+}
+
+second();
